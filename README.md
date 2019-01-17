@@ -1,4 +1,4 @@
-# vurtify
+# vuetify Project
 
 > A Vue.js project
 
